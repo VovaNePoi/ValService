@@ -10,7 +10,7 @@ import (
 // to cfg also
 const (
 	userAg = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) YaBrowser/23.5.3.725 Yowser/2.5 Chrome/113.0.5672.154 Safari/537.36"
-	adress = "localhost:8080"
+	adress = ":8080"
 )
 
 func main() {
